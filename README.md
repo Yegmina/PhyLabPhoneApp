@@ -1,4 +1,4 @@
-# Physics Lab in Your Phone
+# Physics Lab in Your Smartphone
 
 **Main Programming Language:** C#  
 **Engine:** Unity3d (version 2022.1.23f1)
@@ -12,7 +12,8 @@
 ## Download the Game
 
 Download this game from [Google Play Store](https://play.google.com/store/apps/details?id=com.Yegmina.PhyLabPhone).
-
+## Warning
+There u can see ONLY GENERAL scripts, scenes and some materials. This is NOT a full project! Sth will not work correctly. Assets from other creators, that I used in the program, I did not post there because of copyright rules.
 ## Project Overview
 
 "Physics Lab in Your Phone" is an innovative game application that addresses the issue of limited access to specialized laboratory equipment for conducting physics experiments. Through this app, we turn an ordinary mobile phone into a powerful portable physics laboratory, making science accessible to everyone.
@@ -40,3 +41,4 @@ Video tutorials for some experiments are available on the [YouTube channel](http
 The app is designed not only for students and scholars but also for teachers and anyone interested in physics and eager to explore it hands-on. "Physics Lab in Your Phone" makes learning more accessible and interesting, increasing the overall interest in science.
 
 **Project Goal:** Creating an interactive application for learning physics using built-in sensors and physical simulations to make science more accessible and understandable.
+
